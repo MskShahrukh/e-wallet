@@ -1,0 +1,13 @@
+Initial idea have a wallet..
+
+Initial home screen with G-auth.. 
+Db? firebase.
+
+then when logged in add money , withdraw money.
+simple..
+
+then ... add money with transaction type (2 or 3),
+... withdraw money with transaction type..
+
+
+then .. more.
